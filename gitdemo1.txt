@@ -1,7 +1,4 @@
 first
-<<<<<<< HEAD
-second
-=======
 second
 third
->>>>>>> 18e17895ae0ae78620bac7ffa506679927f07b44
+fourth
